@@ -1,0 +1,9 @@
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\Gasse20.UserModel.csprojResolveAssemblyReference.cache
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\MainWindow.g.cs
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\UserParameters.g.cs
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\App.g.cs
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\LFSmodel_MarkupCompile.cache
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\LFSmodel_MarkupCompile.lref
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\LFSmodel.exe
+N:\Gasse20\Gasse20\LFSmodel\obj\Debug\LFSmodel.pdb
